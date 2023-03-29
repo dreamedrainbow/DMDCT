@@ -2,6 +2,7 @@
 面向语义通信的3D骨骼点数据编码与压缩方法
 Encoding and compression method of 3D skeleton data for semantic communication
 论文地址：https://journal.bupt.edu.cn/CN/abstract/abstract5092.shtml
+数据集地址：https://rose1.ntu.edu.sg/dataset/actionRecognition/
 
 ## large2small.py:
 
