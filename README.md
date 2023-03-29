@@ -3,6 +3,9 @@
 Encoding and compression method of 3D skeleton data for semantic communication
 论文地址：https://journal.bupt.edu.cn/CN/abstract/abstract5092.shtml
 数据集地址：https://rose1.ntu.edu.sg/dataset/actionRecognition/
+预处理数据
+链接：https://pan.baidu.com/s/1Fx0BrrDPpUkImjeUJqFm4A 
+提取码：ybpd 
 
 ## large2small.py:
 
