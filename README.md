@@ -1,13 +1,11 @@
 # DMDCT
 面向语义通信的3D骨骼点数据编码与压缩方法
 Encoding and compression method of 3D skeleton data for semantic communication
-论文地址：https://journal.bupt.edu.cn/CN/abstract/abstract5092.shtml
-数据集地址：https://rose1.ntu.edu.sg/dataset/actionRecognition/
-预处理数据
-链接：https://pan.baidu.com/s/1Fx0BrrDPpUkImjeUJqFm4A 
-提取码：ybpd 
-对比的骨骼点压缩模型——
-对比实验所用的网络——(HCN-pytorch)[https://github.com/huguyuehuhu/HCN-pytorch]
+[论文地址](https://journal.bupt.edu.cn/CN/abstract/abstract5092.shtml)
+数据集——[NTU RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/)
+数据预处理——[数据](https://pan.baidu.com/s/1Fx0BrrDPpUkImjeUJqFm4A) 提取码：ybpd 
+对比的骨骼点压缩模型——[3D Human Skeleton Data Compression for Action Recognition](https://ieeexplore.ieee.org/abstract/document/8965920)
+对比实验所用的网络——[HCN-pytorch](https://github.com/huguyuehuhu/HCN-pytorch)
 
 ## large2small.py:
 
