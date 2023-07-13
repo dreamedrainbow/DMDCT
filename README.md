@@ -6,6 +6,8 @@ Encoding and compression method of 3D skeleton data for semantic communication
 预处理数据
 链接：https://pan.baidu.com/s/1Fx0BrrDPpUkImjeUJqFm4A 
 提取码：ybpd 
+对比的骨骼点压缩模型——
+对比实验所用的网络——(HCN-pytorch)[https://github.com/huguyuehuhu/HCN-pytorch]
 
 ## large2small.py:
 
