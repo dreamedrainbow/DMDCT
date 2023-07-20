@@ -3,8 +3,7 @@
 Encoding and compression method of 3D skeleton data for semantic communication
 [论文地址](https://journal.bupt.edu.cn/CN/abstract/abstract5092.shtml)
 - 论文所用数据集——[NTU RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/)
-- 论文所需数据预处理——[数据](https://pan.baidu.com/s/1irUhGiF0soSH9H8v-pAH7Q) 提取码：4ofa 
---来自百度网盘超级会员V6的分享
+- 论文所需数据预处理——[数据](https://pan.baidu.com/s/1irUhGiF0soSH9H8v-pAH7Q) 提取码：4ofa
 - 论文所对比的骨骼点压缩模型——[3D Human Skeleton Data Compression for Action Recognition](https://ieeexplore.ieee.org/abstract/document/8965920)
 - 论文对比实验所用的网络——[HCN-pytorch](https://github.com/huguyuehuhu/HCN-pytorch)
 
